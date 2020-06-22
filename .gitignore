@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+project_data/
+Covid_19_project.ipynb
+notebook_env.db
+src/egpaper_final.pdf
+src/models/
+src/networks/
+src/predictions_nn_features_76_val.txt
+src/report_template/
+src/tensors/
+src/__pycache__
